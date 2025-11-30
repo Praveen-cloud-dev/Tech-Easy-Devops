@@ -35,7 +35,5 @@ jobs:
           aws-region: ${{ secrets.AWS_REGION }}
 
       - name: Upload JAR to S3
-        run: |
-          aws s3 cp build_artifact/app.jar \
-            s3://${{ secrets.S3_BUCKET }}/${{ secrets.S3_KEY }} \
-            --acl private
+        run: aws s3 cp build_artifact/app.jar s3://${{ secrets.S3_BUCKET }}/${{ secrets.S3_KEY }}
+
