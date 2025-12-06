@@ -40,8 +40,6 @@ Pull requests are welcome. Please follow the contribution guidelines.
 MIT License - see LICENSE file for details.
 CICD-GITHUB ACTION
 
-## Support
-For issues and questions, open an issue on GitHub.
 
 
 
