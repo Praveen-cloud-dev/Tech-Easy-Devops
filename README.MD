@@ -43,3 +43,9 @@ CICD-GITHUB ACTION
 ## Support
 For issues and questions, open an issue on GitHub.
 
+
+
+🙌 Author
+Praveen
+Terraform | CICD-Github Actions| AWS | DevOps Projects
+
